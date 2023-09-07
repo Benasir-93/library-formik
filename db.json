@@ -1,0 +1,45 @@
+{
+  "books": [
+    {
+      "title": "harry potter 1",
+      "author": "author1",
+      "ISBN": 30029,
+      "publicationDate": "1977-05-15",
+      "id": 1
+    },
+    {
+      "title": "harry potter 2",
+      "author": "rk rowling",
+      "ISBN": 24320067,
+      "publicationDate": "1948-03-22",
+      "id": 3
+    },
+    {
+      "title": "atomic habits",
+      "author": "name",
+      "ISBN": 4525,
+      "publicationDate": "1990-02-22",
+      "id": 4
+    }
+  ],
+  "author": [
+    {
+      "authorname": "jk rowling",
+      "birthdate": "1984-02-02",
+      "shortbiography": "some text about them",
+      "id": 1
+    },
+    {
+      "authorname": "ahnaf bin  FAIZAL.m",
+      "birthdate": "2000-12-19",
+      "shortbiography": "GOOD WRITER AT THIS TIME",
+      "id": 2
+    },
+    {
+      "authorname": "RK rowling",
+      "birthdate": "1965-12-30",
+      "shortbiography": "she is good writer . she was born in uk in 1948",
+      "id": 3
+    }
+  ]
+}
